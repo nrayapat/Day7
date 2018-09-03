@@ -39,7 +39,7 @@ class RandomNumberTest {
 	{
 		String line;
 		while ((line = br.readLine()) != null) {
-			treeset.add(Integer.parseInt(line));
+			treeset.add(Integer.parseInt(line));0
 		}
 		for (Integer integer : treeset) {
 			System.out.println(integer);

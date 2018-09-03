@@ -4,7 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.DateFormat12;
 import com.capgemini.day7.Mag;
 
 import static org.junit.jupiter.api.Assertions.*;
